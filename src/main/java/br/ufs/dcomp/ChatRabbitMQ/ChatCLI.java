@@ -19,7 +19,7 @@ public class ChatCLI {
 
         // Configuração do RabbitMQ
         ConnectionFactory factory = new ConnectionFactory();
-        factory.setHost("44.211.138.214"); // Alterar
+        factory.setHost("3.83.44.75"); // Alterar
         factory.setUsername("admin"); // Alterar
         factory.setPassword("password"); // Alterar
         factory.setVirtualHost("/");
